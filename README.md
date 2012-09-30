@@ -1,0 +1,4 @@
+myalbum
+=======
+
+collection of albums
